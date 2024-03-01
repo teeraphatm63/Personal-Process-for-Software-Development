@@ -1,0 +1,5 @@
+1.หา x bar / y bar
+2. sum(หาผลต่าง  Xi-Xbar/Yi-Ybar)
+3.sum(หาผลต่างกำลังสอง Xi-Xbar)
+4. sum2/sum3
+5. Ybar * 4.
